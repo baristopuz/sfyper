@@ -10,7 +10,7 @@
  * Released on: May 20, 2026
  */
 
-var Swiper = (function () {
+var Sfyper = (function () {
   'use strict';
 
   /**
