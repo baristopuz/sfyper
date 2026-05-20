@@ -1,5 +1,5 @@
 /**
- * Swiper 12.1.4
+ * Sfyper 12.1.4
  * Most modern mobile touch slider and framework with hardware accelerated transitions
  * https://swiperjs.com
  *
@@ -9786,7 +9786,7 @@ var Sfyper = (function () {
   }
 
   /**
-   * Swiper 12.1.4
+   * Sfyper 12.1.4
    * Most modern mobile touch slider and framework with hardware accelerated transitions
    * https://swiperjs.com
    *
